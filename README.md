@@ -1,4 +1,4 @@
-# 💰 Python Bank Management System | CLI App for Beginners
+# 💰 Python Bank Management System | CLI App for Beginners (PythonProject-2)
 
 Welcome to a beginner-friendly **Bank Management System** written in Python.  
 This is a simple terminal based program that allows a user to:
