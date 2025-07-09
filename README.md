@@ -1,3 +1,8 @@
+## NEWS
+A New Updated Version Of This Project Available
+Please Go And CheckOut:
+(https://github.com/Omborse08/Terminal-Based-Python-Bank-System-PIN-Transactions-)
+
 # 💰 Python Bank Management System | CLI App for Beginners (PythonProject-2)
 
 Welcome to a beginner-friendly **Bank Management System** written in Python.  
